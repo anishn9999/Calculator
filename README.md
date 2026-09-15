@@ -125,8 +125,8 @@ B.Tech Student | Java & DSA Learner | Web Development Enthusiast
 
 ### Connect with me
 
-* GitHub: [Your GitHub Profile](YOUR_GITHUB_PROFILE_LINK)
-* LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_PROFILE_LINK)
+* GitHub: [Your GitHub Profile](https://github.com/anishn9999)
+* LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/anish-kumar-39761b332?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
